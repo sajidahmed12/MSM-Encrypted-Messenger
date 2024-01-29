@@ -28,7 +28,6 @@ git clone https://github.com/yourusername/MSM-Encrypted-Messenger.git
 - **Java Swing**: GUI toolkit for building the user interface.
 - **Java Multithreading**: Utilized for handling concurrent user interactions and message processing.
 - **Encryption Libraries**: Java libraries for implementing end-to-end encryption.
-- **Maven**: Dependency management tool for managing project dependencies.
 
 ## Usage
 
