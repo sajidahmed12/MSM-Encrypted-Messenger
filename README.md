@@ -1,7 +1,3 @@
-Certainly! Below is a template for a GitHub README.md file for the MSM-Encrypted-Messenger project built upon Java Swing and Java Multithreading:
-
----
-
 # MSM Encrypted Messenger
 
 MSM Encrypted Messenger is a secure and privacy-focused messaging application built using Java Swing and Java Multithreading, ensuring end-to-end encryption for all communication.
